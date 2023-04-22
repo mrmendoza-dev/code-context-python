@@ -1,6 +1,13 @@
 # code-context-python
 Python UI to easily copy the context of your code projects as a JSON object. Built to import context easily to ChatGPT.
 
+### Features
+- Outputs a list of files with JSON objects for:
+  - File Name
+  - File Type
+  - File Path
+  - File Content
+  
 ### Example Output:
 [
   {
