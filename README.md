@@ -18,4 +18,4 @@ Python UI to easily copy the context of your code projects as a JSON object. Bui
   }
 ]
 
-![Interface](https://firebasestorage.googleapis.com/v0/b/portfolio-3aa67.appspot.com/o/gallery%2Fcode-context%2Fmain.png?alt=media)
+![Interface](https://firebasestorage.googleapis.com/v0/b/portfolio-3aa67.appspot.com/o/gallery%2Fcode-context%2Ftree.png?alt=media)
